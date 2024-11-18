@@ -33,8 +33,8 @@ Aplicação web fullstack de catálogo de filmes/séries, onde permite o usuári
 ### Passos para rodar localmente:
 1. **Clone o repositório**:
    ```bash
-   git clone <URL-DO-REPOSITORIO>
-   cd <nome-do-repositorio>
+   git clone https://github.com/Sanmiir/catalogo-filmes.git
+   cd catalogo-filmes
 2. **Inicie o backend**:
 
    ```bash
