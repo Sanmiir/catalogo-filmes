@@ -56,12 +56,13 @@ Aplicação web fullstack de catálogo de filmes/séries, onde permite o usuári
 
 5. **Acesse a aplicação em**:
 
--Frontend: http://localhost:3000
--Backend: http://localhost:8000/docs (Swagger UI para testar endpoints)
+-**Frontend**: [http://localhost:3000](http://localhost:3000)
+-**Backend**: [http://localhost:8000/docs](http://localhost:8000/docs) (Swagger UI para testar endpoints)
 
-**🗂️ Estrutura do Projeto**
-bash
-Copiar código
+---
+
+## 🗂️ **Estrutura do Projeto**
+```bash
 project-root/
 ├── frontend/
 │   ├── src/
@@ -75,29 +76,8 @@ project-root/
 │   ├── services/         # Lógica do backend e integração com API externa
 │   └── database.py       # Conexão com MongoDB
 └── README.md
-🗓️ Status do Projeto
-📌 Em desenvolvimento: A estrutura inicial do backend e frontend está em progresso, com foco inicial na autenticação de usuários e na exibição de filmes/séries populares.
 
-🤝 Contribuições
-Contribuições são bem-vindas! Para colaborar:
+---
 
-Faça um fork do projeto.
-Crie uma branch com suas alterações:
-bash
-Copiar código
-git checkout -b minha-feature
-Commit suas mudanças:
-bash
-Copiar código
-git commit -m "Minha nova feature"
-Envie para sua branch remota:
-bash
-Copiar código
-git push origin minha-feature
-Abra um pull request para revisão.
-Desenvolvido com 💻 e 🎬 por [Seu Nome].
 
-markdown
-Copiar código
 
-Basta copiar e colar no seu arquivo **README.md**!
